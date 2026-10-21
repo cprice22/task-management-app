@@ -1,6 +1,6 @@
 # Task Management App
 
-A task management application built while following Devtiro’s Spring Boot tutorial. This project focuses on implementing a Java backend and connecting it to the tutorial-provided React frontend.
+A task management application. This project focuses on implementing a Java backend and connecting it to a provided React frontend.
 
 ## Features
 
@@ -18,7 +18,7 @@ A task management application built while following Devtiro’s Spring Boot tuto
 - Spring Data JPA and Hibernate
 - H2 Database
 - Maven
-- React and TypeScript (tutorial-provided frontend)
+- React and TypeScript (provided frontend)
 - Docker Compose
 
 ## Run Locally
@@ -60,6 +60,6 @@ Keep both processes running while using the app. Press Ctrl+C in each terminal t
 
 ## Credits
 
-Built following [Devtiro’s task app tutorial](https://github.com/devtiro/devtiro-task-app).
+Provided UI from [Devtiro’s task app tutorial](https://github.com/devtiro/devtiro-task-app).
 
 The React frontend was provided by the tutorial and customized for this project. Its license is retained in `frontend/LICENSE`.
